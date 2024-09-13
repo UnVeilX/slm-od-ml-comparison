@@ -1,0 +1,76 @@
+augmentation_library_name: albumentations
+train:
+- ToFloat:
+    always_apply: true
+    p: 1
+- OneOf:
+    p: 1
+    transforms:
+    - BBoxSafeRandomCrop:
+        p: 0.5
+    - RandomExpand:
+        p: 0.5
+- HorizontalFlip:
+    p: 0.5
+- Normalize:
+    always_apply: true
+    max_pixel_value: 1.0
+    mean:
+    - 0.485
+    - 0.456
+    - 0.406
+    p: 1
+    std:
+    - 0.229
+    - 0.224
+    - 0.225
+- ConstraintResize:
+    always_apply: true
+    img_scale: !!python/tuple
+    - 1400
+    - 800
+    p: 1
+- PadIfNeeded:
+    always_apply: true
+    border_mode: 0
+    mask_value: 0
+    min_height: null
+    min_width: null
+    p: 1
+    pad_height_divisor: 32
+    pad_width_divisor: 32
+    position: top_left
+    value: 0
+validation:
+- ToFloat:
+    always_apply: true
+    p: 1
+- Normalize:
+    always_apply: true
+    max_pixel_value: 1.0
+    mean:
+    - 0.485
+    - 0.456
+    - 0.406
+    p: 1
+    std:
+    - 0.229
+    - 0.224
+    - 0.225
+- ConstraintResize:
+    always_apply: true
+    img_scale: !!python/tuple
+    - 1400
+    - 800
+    p: 1
+- PadIfNeeded:
+    always_apply: true
+    border_mode: 0
+    mask_value: 0
+    min_height: null
+    min_width: null
+    p: 1
+    pad_height_divisor: 32
+    pad_width_divisor: 32
+    position: top_left
+    value: 0
