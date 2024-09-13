@@ -1,0 +1,13 @@
+{
+    "image_min_size": 500,
+    "image_max_size": 1100,
+    "num_train_epochs": 30,
+    "per_device_train_batch_size": 2,
+    "per_device_eval_batch_size": 2,
+    "learning_rate": 5e-05,
+    "lr_scheduler_type": "cosine",
+    "warmup_steps": 5,
+    "optim": "adamw_torch",
+    "weight_decay": 0.00038194851583229757,
+    "metric_for_best_model": "mean_average_precision"
+}
