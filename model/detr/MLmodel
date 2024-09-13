@@ -1,0 +1,45 @@
+flavors:
+  python_function:
+    artifacts:
+      augmentations_path:
+        path: artifacts/augmentations.yaml
+        uri: output/augmentations.yaml
+      config_path:
+        path: artifacts/deformable-detr_refine_twostage_r50_16xb2-50e_coco.py
+        uri: output/deformable-detr_refine_twostage_r50_16xb2-50e_coco.py
+      model_defaults_path:
+        path: artifacts/model_defaults.json
+        uri: output/model_defaults.json
+      model_metadata:
+        path: artifacts/model_metadata.json
+        uri: output/model_metadata.json
+      weights_path:
+        path: artifacts/pytorch_model.bin
+        uri: output/pytorch_model.bin
+    cloudpickle_version: 2.2.1
+    code: code
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.10.14
+    streamable: false
+metadata:
+  base_model_asset_id: azureml://registries/azureml/models/mmd-3x-deformable-detr_refine_twostage_r50_16xb2-50e_coco/versions/15
+  base_model_name: deformable-detr_refine_twostage_r50_16xb2-50e_coco
+  base_model_task: image-object-detection
+  finetuning_task: image-object-detection
+  finetuning_tasks:
+  - object detection
+  is_acft_model: true
+  is_finetuned_model: true
+  model_name: deformable-detr_refine_twostage_r50_16xb2-50e_coco
+mlflow_version: 2.14.3
+model_size_bytes: 164755838
+model_uuid: a6118efc5f464ee3afae65b7eb37df47
+signature:
+  inputs: '[{"type": "binary", "name": "image", "required": true}]'
+  outputs: '[{"type": "string", "name": "boxes", "required": true}]'
+  params: null
+utc_time_created: '2024-09-02 23:51:15.297222'
