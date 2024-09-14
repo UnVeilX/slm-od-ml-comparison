@@ -1,9 +1,9 @@
 # Surface Landmines Object Detection Models Comparison
 
 
-# Fine Tune Metrics
+## Fine Tune Metrics - YOLOF, VFNET, DETR, SPARSE
 
-### YOLOF, VFNET, DETR, SPARSE
+
 
 
 ### Comparison Charts
