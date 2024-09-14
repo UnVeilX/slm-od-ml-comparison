@@ -27,9 +27,6 @@
 <p align="center">
   <a href="https://github.com/UnVeilX/slm-od-ml-comparison/blob/main/comparison/model_comparison-chart-7.png"><img alt="Light" src="./comparison/model_comparison-chart-7.png" width="100%">
 </p>
-<p align="center">
-  <a href="https://github.com/UnVeilX/slm-od-ml-comparison/blob/main/comparison/model_comparison-chart-8.png"><img alt="Light" src="./comparison/model_comparison-chart-8.png" width="100%">
-</p>
 
 
 ### Comparison Table
