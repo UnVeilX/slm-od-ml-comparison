@@ -1,0 +1,369 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0134.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0134.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0134.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384202Z"
+    },
+    {
+      "id": 2,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0072.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0072.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0072.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384378Z"
+    },
+    {
+      "id": 3,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0120.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0120.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0120.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384492Z"
+    },
+    {
+      "id": 4,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0124.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0124.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0124.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384471Z"
+    },
+    {
+      "id": 5,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0130.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0130.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0130.jpg",
+      "date_captured": "2024-09-02T21:37:02.8382061Z"
+    },
+    {
+      "id": 6,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0143.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0143.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0143.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384355Z"
+    },
+    {
+      "id": 7,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0111.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0111.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0111.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384443Z"
+    },
+    {
+      "id": 8,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0110.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0110.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0110.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384166Z"
+    },
+    {
+      "id": 9,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0078.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0078.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0078.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384422Z"
+    },
+    {
+      "id": 10,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0099.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0099.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0099.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384514Z"
+    },
+    {
+      "id": 11,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0058.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0058.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0058.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384273Z"
+    },
+    {
+      "id": 12,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0062.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0062.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0062.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384248Z"
+    },
+    {
+      "id": 13,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0071.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0071.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0071.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384311Z"
+    },
+    {
+      "id": 14,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0054.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0054.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0054.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384399Z"
+    },
+    {
+      "id": 15,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0115.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0115.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0115.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384333Z"
+    },
+    {
+      "id": 16,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0135.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0135.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0135.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384536Z"
+    },
+    {
+      "id": 17,
+      "width": 800,
+      "height": 450,
+      "file_name": "UI/2024-09-02_213233_UTC/DJI_0146.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-09-02_213233_UTC/DJI_0146.jpg",
+      "absolute_url": "https://stglandmine.blob.core.windows.net/azureml-blobstore-6f24ffb1-eb7e-4256-a866-c2b2ef9ef080/UI/2024-09-02_213233_UTC/DJI_0146.jpg",
+      "date_captured": "2024-09-02T21:37:02.8384225Z"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "image_id": 1,
+      "area": 0.008,
+      "bbox": [
+        0.4978620547813391,
+        0.7210487589385688,
+        0.06398015224195847,
+        0.13131952441088157
+      ]
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "image_id": 2,
+      "area": 0.017,
+      "bbox": [
+        0.4295094020980189,
+        0.6523128347987073,
+        0.10084496414234279,
+        0.16377203627595682
+      ]
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "image_id": 3,
+      "area": 0.004,
+      "bbox": [
+        0.2636985468165494,
+        0.6393999230201547,
+        0.05330421248942324,
+        0.0836605109298657
+      ]
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "image_id": 4,
+      "area": 0.01,
+      "bbox": [
+        0.19391649165448616,
+        0.4579232181710607,
+        0.07512161863743289,
+        0.12848576350010182
+      ]
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "image_id": 5,
+      "area": 0.015,
+      "bbox": [
+        0.09748912401230406,
+        0.5845832948964271,
+        0.09558474512752571,
+        0.15978178838176915
+      ]
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "image_id": 6,
+      "area": 0.005,
+      "bbox": [
+        0.32849246904205426,
+        0.2464512629307054,
+        0.05538508946421866,
+        0.08877568446852097
+      ]
+    },
+    {
+      "id": 7,
+      "category_id": 1,
+      "image_id": 7,
+      "area": 0.005,
+      "bbox": [
+        0.4836455292344482,
+        0.4789606647305069,
+        0.046916731794028055,
+        0.10384207362072473
+      ]
+    },
+    {
+      "id": 8,
+      "category_id": 1,
+      "image_id": 8,
+      "area": 0.003,
+      "bbox": [
+        0.49422820150269753,
+        0.760819326394544,
+        0.03820712558609651,
+        0.07435523415233103
+      ]
+    },
+    {
+      "id": 9,
+      "category_id": 1,
+      "image_id": 9,
+      "area": 0.007,
+      "bbox": [
+        0.3656556194690618,
+        0.34932258929025856,
+        0.06849272165702297,
+        0.10692405079397393
+      ]
+    },
+    {
+      "id": 10,
+      "category_id": 1,
+      "image_id": 10,
+      "area": 0.007,
+      "bbox": [
+        0.47592484912188904,
+        0.05501061852669483,
+        0.06819743053920879,
+        0.09954148084410627
+      ]
+    },
+    {
+      "id": 11,
+      "category_id": 1,
+      "image_id": 11,
+      "area": 0.013,
+      "bbox": [
+        0.5608086601530691,
+        0.0002131757208112785,
+        0.11835677305339609,
+        0.10885212553440553
+      ]
+    },
+    {
+      "id": 12,
+      "category_id": 1,
+      "image_id": 12,
+      "area": 0.018,
+      "bbox": [
+        0.6202085849128252,
+        0.8002029071025041,
+        0.10861104785036968,
+        0.1686675727173249
+      ]
+    },
+    {
+      "id": 13,
+      "category_id": 1,
+      "image_id": 13,
+      "area": 0.011,
+      "bbox": [
+        0.24681100938529846,
+        0.24881438711955414,
+        0.0873373385749345,
+        0.12139663944803544
+      ]
+    },
+    {
+      "id": 14,
+      "category_id": 1,
+      "image_id": 14,
+      "area": 0.045,
+      "bbox": [
+        0.3913547814086517,
+        0.08439342983382532,
+        0.16211281071268385,
+        0.27948808204079295
+      ]
+    },
+    {
+      "id": 15,
+      "category_id": 1,
+      "image_id": 15,
+      "area": 0.008,
+      "bbox": [
+        0.2430121766627806,
+        0.66379579426023,
+        0.07266168873939141,
+        0.11559064535830621
+      ]
+    },
+    {
+      "id": 16,
+      "category_id": 1,
+      "image_id": 16,
+      "area": 0.006,
+      "bbox": [
+        0.08980643865728224,
+        0.2636020424311635,
+        0.050813640756016826,
+        0.11625263822971804
+      ]
+    },
+    {
+      "id": 17,
+      "category_id": 1,
+      "image_id": 17,
+      "area": 0.006,
+      "bbox": [
+        0.2726387496103293,
+        0.549970198143577,
+        0.054630674057752404,
+        0.1147694541111055
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "landmine"
+    }
+  ]
+}
