@@ -1,0 +1,1419 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2405-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2405-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2405-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283451Z"
+    },
+    {
+      "id": 2,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2369-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2369-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2369-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283284Z"
+    },
+    {
+      "id": 3,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2415-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2415-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2415-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283219Z"
+    },
+    {
+      "id": 4,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2364-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2364-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2364-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282887Z"
+    },
+    {
+      "id": 5,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2409-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2409-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2409-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283413Z"
+    },
+    {
+      "id": 6,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2397-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2397-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2397-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.328366Z"
+    },
+    {
+      "id": 7,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2386-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2386-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2386-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282993Z"
+    },
+    {
+      "id": 8,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2377-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2377-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2377-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283158Z"
+    },
+    {
+      "id": 9,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2379-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2379-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2379-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283145Z"
+    },
+    {
+      "id": 10,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2370-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2370-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2370-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283464Z"
+    },
+    {
+      "id": 11,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2374-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2374-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2374-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283063Z"
+    },
+    {
+      "id": 12,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2385-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2385-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2385-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.32831Z"
+    },
+    {
+      "id": 13,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2362-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2362-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2362-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283369Z"
+    },
+    {
+      "id": 14,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2390-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2390-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2390-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282762Z"
+    },
+    {
+      "id": 15,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2388-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2388-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2388-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283426Z"
+    },
+    {
+      "id": 16,
+      "width": 1000,
+      "height": 563,
+      "file_name": "UI/2024-10-14_211902_UTC/DJI_0153resize-Y.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/DJI_0153resize-Y.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/DJI_0153resize-Y.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283077Z"
+    },
+    {
+      "id": 17,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2411-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2411-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2411-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283381Z"
+    },
+    {
+      "id": 18,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2398-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2398-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2398-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283037Z"
+    },
+    {
+      "id": 19,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2396-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2396-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2396-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.328286Z"
+    },
+    {
+      "id": 20,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2357-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2357-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2357-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.32834Z"
+    },
+    {
+      "id": 21,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2392-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2392-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2392-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283632Z"
+    },
+    {
+      "id": 22,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2376-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2376-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2376-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.32829Z"
+    },
+    {
+      "id": 23,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2363-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2363-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2363-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282644Z"
+    },
+    {
+      "id": 24,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2399-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2399-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2399-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.328317Z"
+    },
+    {
+      "id": 25,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2368-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2368-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2368-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283647Z"
+    },
+    {
+      "id": 26,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2380-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2380-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2380-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282703Z"
+    },
+    {
+      "id": 27,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2416-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2416-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2416-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282672Z"
+    },
+    {
+      "id": 28,
+      "width": 1000,
+      "height": 563,
+      "file_name": "UI/2024-10-14_211902_UTC/DJI_0155resize-Y.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/DJI_0155resize-Y.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/DJI_0155resize-Y.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282924Z"
+    },
+    {
+      "id": 29,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2356-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2356-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2356-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283536Z"
+    },
+    {
+      "id": 30,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2382-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2382-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2382-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283258Z"
+    },
+    {
+      "id": 31,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2373-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2373-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2373-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283607Z"
+    },
+    {
+      "id": 32,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2360-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2360-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2360-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283356Z"
+    },
+    {
+      "id": 33,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2408-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2408-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2408-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282724Z"
+    },
+    {
+      "id": 34,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2417-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2417-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2417-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282873Z"
+    },
+    {
+      "id": 35,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2375-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2375-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2375-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283343Z"
+    },
+    {
+      "id": 36,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2395-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2395-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2395-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282953Z"
+    },
+    {
+      "id": 37,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2394-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2394-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2394-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283439Z"
+    },
+    {
+      "id": 38,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2404-resize-Y.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2404-resize-Y.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2404-resize-Y.jpg",
+      "date_captured": "2024-10-14T21:20:39.328298Z"
+    },
+    {
+      "id": 39,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2403-resize-Y.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2403-resize-Y.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2403-resize-Y.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282845Z"
+    },
+    {
+      "id": 40,
+      "width": 1000,
+      "height": 563,
+      "file_name": "UI/2024-10-14_211902_UTC/DJI_0156resize-Y.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/DJI_0156resize-Y.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/DJI_0156resize-Y.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282966Z"
+    },
+    {
+      "id": 41,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2393-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2393-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2393-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283233Z"
+    },
+    {
+      "id": 42,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2389-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2389-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2389-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282618Z"
+    },
+    {
+      "id": 43,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2378-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2378-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2378-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283575Z"
+    },
+    {
+      "id": 44,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2354-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2354-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2354-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283594Z"
+    },
+    {
+      "id": 45,
+      "width": 1000,
+      "height": 563,
+      "file_name": "UI/2024-10-14_211902_UTC/DJI_0152resize-Y.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/DJI_0152resize-Y.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/DJI_0152resize-Y.jpg",
+      "date_captured": "2024-10-14T21:20:39.328333Z"
+    },
+    {
+      "id": 46,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2406-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2406-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2406-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283524Z"
+    },
+    {
+      "id": 47,
+      "width": 1022,
+      "height": 681,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2400-resize-Y.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2400-resize-Y.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2400-resize-Y.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283132Z"
+    },
+    {
+      "id": 48,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2361-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2361-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2361-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282739Z"
+    },
+    {
+      "id": 49,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2372-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2372-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2372-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283298Z"
+    },
+    {
+      "id": 50,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2366-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2366-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2366-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283477Z"
+    },
+    {
+      "id": 51,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2387-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2387-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2387-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.328126Z"
+    },
+    {
+      "id": 52,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2391-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2391-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2391-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282939Z"
+    },
+    {
+      "id": 53,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2413-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2413-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2413-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283619Z"
+    },
+    {
+      "id": 54,
+      "width": 1000,
+      "height": 563,
+      "file_name": "UI/2024-10-14_211902_UTC/DJI_0151resize-Y.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/DJI_0151resize-Y.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/DJI_0151resize-Y.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283317Z"
+    },
+    {
+      "id": 55,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2401-resize-Y.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2401-resize-Y.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2401-resize-Y.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283509Z"
+    },
+    {
+      "id": 56,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2384-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2384-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2384-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283271Z"
+    },
+    {
+      "id": 57,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2371-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2371-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2371-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3282579Z"
+    },
+    {
+      "id": 58,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2383-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2383-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2383-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283549Z"
+    },
+    {
+      "id": 59,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2407-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2407-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2407-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283005Z"
+    },
+    {
+      "id": 60,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2412-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2412-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2412-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283562Z"
+    },
+    {
+      "id": 61,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2410-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2410-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2410-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283113Z"
+    },
+    {
+      "id": 62,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2359-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2359-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2359-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283245Z"
+    },
+    {
+      "id": 63,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2358-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2358-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2358-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283024Z"
+    },
+    {
+      "id": 64,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2365-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2365-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2365-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283184Z"
+    },
+    {
+      "id": 65,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2414-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2414-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2414-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283496Z"
+    },
+    {
+      "id": 66,
+      "width": 691,
+      "height": 1037,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2381-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2381-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2381-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.3283199Z"
+    },
+    {
+      "id": 67,
+      "width": 1037,
+      "height": 691,
+      "file_name": "UI/2024-10-14_211902_UTC/IMG_2367-resize.jpg",
+      "coco_url": "AmlDatastore://workspaceblobstore/UI/2024-10-14_211902_UTC/IMG_2367-resize.jpg",
+      "absolute_url": "https://testws6052066793.blob.core.windows.net/azureml-blobstore-8a1eda2d-c809-49d9-9012-3b56baa7fd11/UI/2024-10-14_211902_UTC/IMG_2367-resize.jpg",
+      "date_captured": "2024-10-14T21:20:39.328305Z"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "image_id": 1,
+      "area": 0.123,
+      "bbox": [
+        0.524578182804516,
+        0.2394388304471193,
+        0.270705199139713,
+        0.4525647489566368
+      ]
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "image_id": 2,
+      "area": 0.108,
+      "bbox": [
+        0.2876752570891065,
+        0.3990367678166989,
+        0.2999417138308837,
+        0.3607391953856626
+      ]
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "image_id": 3,
+      "area": 0.048,
+      "bbox": [
+        0.4350108454192167,
+        0.37961759784710913,
+        0.17458792650847782,
+        0.27447271191724343
+      ]
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "image_id": 4,
+      "area": 0.335,
+      "bbox": [
+        0.310222536811209,
+        0.19049638878639047,
+        0.4931382419174383,
+        0.6783988033133144
+      ]
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "image_id": 5,
+      "area": 0.024,
+      "bbox": [
+        0.5078069068185651,
+        0.4826664132481677,
+        0.1349291694794511,
+        0.17890964967808431
+      ]
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "image_id": 6,
+      "area": 0.022,
+      "bbox": [
+        0.5554056818275516,
+        0.6239555433441063,
+        0.1139422718675841,
+        0.1901731211510077
+      ]
+    },
+    {
+      "id": 7,
+      "category_id": 1,
+      "image_id": 7,
+      "area": 0.046,
+      "bbox": [
+        0.4391926191333305,
+        0.4070857044928237,
+        0.1995799395550515,
+        0.23080812137367673
+      ]
+    },
+    {
+      "id": 8,
+      "category_id": 1,
+      "image_id": 8,
+      "area": 0.045,
+      "bbox": [
+        0.3299326196522268,
+        0.43178267587667957,
+        0.18015335781484482,
+        0.2504467296289699
+      ]
+    },
+    {
+      "id": 9,
+      "category_id": 1,
+      "image_id": 9,
+      "area": 0.034,
+      "bbox": [
+        0.4529973856926958,
+        0.3984619041219208,
+        0.2206582716968704,
+        0.15425239090810766
+      ]
+    },
+    {
+      "id": 10,
+      "category_id": 1,
+      "image_id": 10,
+      "area": 0.115,
+      "bbox": [
+        0.36920778909368407,
+        0.4280979019811177,
+        0.25452907674974073,
+        0.45180628276414897
+      ]
+    },
+    {
+      "id": 11,
+      "category_id": 1,
+      "image_id": 11,
+      "area": 0.044,
+      "bbox": [
+        0.4791647508604734,
+        0.4018829047485749,
+        0.17377597405666878,
+        0.25326458561303955
+      ]
+    },
+    {
+      "id": 12,
+      "category_id": 1,
+      "image_id": 12,
+      "area": 0.058,
+      "bbox": [
+        0.41959977856998454,
+        0.3847530501673198,
+        0.20722367238923378,
+        0.2796601534666378
+      ]
+    },
+    {
+      "id": 13,
+      "category_id": 1,
+      "image_id": 13,
+      "area": 0.116,
+      "bbox": [
+        0.30622379810059547,
+        0.42852763321966614,
+        0.463380654986334,
+        0.2510789504656963
+      ]
+    },
+    {
+      "id": 14,
+      "category_id": 1,
+      "image_id": 14,
+      "area": 0.036,
+      "bbox": [
+        0.46247481584456834,
+        0.5034943123982085,
+        0.15463488057452185,
+        0.23452152413731675
+      ]
+    },
+    {
+      "id": 15,
+      "category_id": 1,
+      "image_id": 15,
+      "area": 0.023,
+      "bbox": [
+        0.480221984755344,
+        0.5464841364260994,
+        0.13298069555854936,
+        0.17598662236614415
+      ]
+    },
+    {
+      "id": 16,
+      "category_id": 1,
+      "image_id": 16,
+      "area": 0.003,
+      "bbox": [
+        0.4467378504136029,
+        0.3557255290109124,
+        0.04589194076067932,
+        0.07020172119090012
+      ]
+    },
+    {
+      "id": 17,
+      "category_id": 1,
+      "image_id": 17,
+      "area": 0.062,
+      "bbox": [
+        0.4528760514705637,
+        0.24068398739693608,
+        0.19832988516848432,
+        0.31408800752621135
+      ]
+    },
+    {
+      "id": 18,
+      "category_id": 1,
+      "image_id": 18,
+      "area": 0.04,
+      "bbox": [
+        0.4795395949561486,
+        0.4848710349017712,
+        0.15273721164061127,
+        0.2635570613103114
+      ]
+    },
+    {
+      "id": 19,
+      "category_id": 1,
+      "image_id": 19,
+      "area": 0.03,
+      "bbox": [
+        0.47117869707091925,
+        0.6148030532687805,
+        0.1376098446079151,
+        0.22033104912077572
+      ]
+    },
+    {
+      "id": 20,
+      "category_id": 1,
+      "image_id": 20,
+      "area": 0.062,
+      "bbox": [
+        0.4050331321259596,
+        0.34473038962298963,
+        0.2637298485729447,
+        0.23653155895320133
+      ]
+    },
+    {
+      "id": 21,
+      "category_id": 1,
+      "image_id": 21,
+      "area": 0.025,
+      "bbox": [
+        0.4044906271454013,
+        0.3784961514053593,
+        0.14560331711786434,
+        0.1727917699161492
+      ]
+    },
+    {
+      "id": 22,
+      "category_id": 1,
+      "image_id": 22,
+      "area": 0.029,
+      "bbox": [
+        0.3884700557795217,
+        0.5477819784456434,
+        0.23662104524112443,
+        0.12237449422333058
+      ]
+    },
+    {
+      "id": 23,
+      "category_id": 1,
+      "image_id": 23,
+      "area": 0.112,
+      "bbox": [
+        0.3953988987094996,
+        0.32842018549916024,
+        0.44978686963757686,
+        0.24874356049279828
+      ]
+    },
+    {
+      "id": 24,
+      "category_id": 1,
+      "image_id": 24,
+      "area": 0.061,
+      "bbox": [
+        0.4395864737000181,
+        0.39626583136642407,
+        0.21032357145859332,
+        0.29028812371170093
+      ]
+    },
+    {
+      "id": 25,
+      "category_id": 1,
+      "image_id": 25,
+      "area": 0.036,
+      "bbox": [
+        0.4605942594249051,
+        0.7095445266375713,
+        0.25786451426045404,
+        0.1385429456878562
+      ]
+    },
+    {
+      "id": 26,
+      "category_id": 1,
+      "image_id": 26,
+      "area": 0.059,
+      "bbox": [
+        0.3557143185582718,
+        0.3873268649321814,
+        0.3267588083705287,
+        0.18184217024315452
+      ]
+    },
+    {
+      "id": 27,
+      "category_id": 1,
+      "image_id": 27,
+      "area": 0.041,
+      "bbox": [
+        0.5089277959839682,
+        0.26821864622035324,
+        0.16787034142932855,
+        0.24383679119694118
+      ]
+    },
+    {
+      "id": 28,
+      "category_id": 1,
+      "image_id": 28,
+      "area": 0.002,
+      "bbox": [
+        0.4542126909357493,
+        0.2604324271962893,
+        0.04095356404280465,
+        0.05988753258528473
+      ]
+    },
+    {
+      "id": 29,
+      "category_id": 1,
+      "image_id": 29,
+      "area": 0.082,
+      "bbox": [
+        0.41063023968936313,
+        0.35137357929242163,
+        0.3135466270396607,
+        0.2620005157172486
+      ]
+    },
+    {
+      "id": 30,
+      "category_id": 1,
+      "image_id": 30,
+      "area": 0.029,
+      "bbox": [
+        0.4491122431644214,
+        0.5528458088927626,
+        0.14005961206408285,
+        0.20845633143322484
+      ]
+    },
+    {
+      "id": 31,
+      "category_id": 1,
+      "image_id": 31,
+      "area": 0.034,
+      "bbox": [
+        0.4345718161444092,
+        0.45457374001170603,
+        0.17855747182843307,
+        0.19231471953252244
+      ]
+    },
+    {
+      "id": 32,
+      "category_id": 1,
+      "image_id": 32,
+      "area": 0.132,
+      "bbox": [
+        0.3259975396827692,
+        0.2978349617327463,
+        0.48585441655278344,
+        0.2714377536835811
+      ]
+    },
+    {
+      "id": 33,
+      "category_id": 1,
+      "image_id": 33,
+      "area": 0.054,
+      "bbox": [
+        0.45599648449815966,
+        0.5066120756565554,
+        0.21331278586920177,
+        0.2531916217617569
+      ]
+    },
+    {
+      "id": 34,
+      "category_id": 1,
+      "image_id": 34,
+      "area": 0.075,
+      "bbox": [
+        0.5036897819536081,
+        0.3791137595906708,
+        0.23082354930595994,
+        0.3250126543573137
+      ]
+    },
+    {
+      "id": 35,
+      "category_id": 1,
+      "image_id": 35,
+      "area": 0.072,
+      "bbox": [
+        0.4046361532945793,
+        0.3656386086529163,
+        0.23883146182524956,
+        0.30027910164202465
+      ]
+    },
+    {
+      "id": 36,
+      "category_id": 1,
+      "image_id": 36,
+      "area": 0.018,
+      "bbox": [
+        0.6189092660234913,
+        0.6674886200249389,
+        0.1275768863750747,
+        0.14441782799139857
+      ]
+    },
+    {
+      "id": 37,
+      "category_id": 1,
+      "image_id": 37,
+      "area": 0.032,
+      "bbox": [
+        0.5240260180436838,
+        0.36757841327679663,
+        0.14974766603712808,
+        0.21653608390485035
+      ]
+    },
+    {
+      "id": 38,
+      "category_id": 1,
+      "image_id": 38,
+      "area": 0.025,
+      "bbox": [
+        0.4207615369361355,
+        0.44979371310057004,
+        0.1317707817484055,
+        0.18864714283896578
+      ]
+    },
+    {
+      "id": 39,
+      "category_id": 1,
+      "image_id": 39,
+      "area": 0.045,
+      "bbox": [
+        0.45732880719482194,
+        0.3659133165589373,
+        0.1829714117477672,
+        0.24680619131082043
+      ]
+    },
+    {
+      "id": 40,
+      "category_id": 1,
+      "image_id": 40,
+      "area": 0.002,
+      "bbox": [
+        0.21368960995856676,
+        0.3185053225654901,
+        0.03981862927462651,
+        0.05302664101460597
+      ]
+    },
+    {
+      "id": 41,
+      "category_id": 1,
+      "image_id": 41,
+      "area": 0.04,
+      "bbox": [
+        0.45983242661242885,
+        0.5386553338762216,
+        0.1606733877832237,
+        0.24695271544813713
+      ]
+    },
+    {
+      "id": 42,
+      "category_id": 1,
+      "image_id": 42,
+      "area": 0.026,
+      "bbox": [
+        0.7162998427811031,
+        0.3845398247436126,
+        0.12068893568113892,
+        0.21675875287879176
+      ]
+    },
+    {
+      "id": 43,
+      "category_id": 1,
+      "image_id": 43,
+      "area": 0.044,
+      "bbox": [
+        0.4098173545081753,
+        0.42113621615431596,
+        0.28501971276411303,
+        0.15476219351206233
+      ]
+    },
+    {
+      "id": 44,
+      "category_id": 1,
+      "image_id": 44,
+      "area": 0.076,
+      "bbox": [
+        0.416265593661006,
+        0.2858519911377748,
+        0.2549150489260086,
+        0.2997673109222313
+      ]
+    },
+    {
+      "id": 45,
+      "category_id": 1,
+      "image_id": 45,
+      "area": 0.003,
+      "bbox": [
+        0.4588445811267215,
+        0.3525224569549549,
+        0.043030696979312555,
+        0.07614603218526161
+      ]
+    },
+    {
+      "id": 46,
+      "category_id": 1,
+      "image_id": 46,
+      "area": 0.111,
+      "bbox": [
+        0.36631183859661354,
+        0.3748162483936024,
+        0.31565814051066243,
+        0.3519899946082299
+      ]
+    },
+    {
+      "id": 47,
+      "category_id": 1,
+      "image_id": 47,
+      "area": 0.06,
+      "bbox": [
+        0.44109458375975763,
+        0.4428359040996539,
+        0.19485005307032066,
+        0.3060747078264964
+      ]
+    },
+    {
+      "id": 48,
+      "category_id": 1,
+      "image_id": 48,
+      "area": 0.118,
+      "bbox": [
+        0.47614334450243645,
+        0.3291124971371132,
+        0.2546419472814655,
+        0.4643798231690248
+      ]
+    },
+    {
+      "id": 49,
+      "category_id": 1,
+      "image_id": 49,
+      "area": 0.06,
+      "bbox": [
+        0.4040746466627312,
+        0.43211101320745116,
+        0.2873551353208198,
+        0.20926569339118484
+      ]
+    },
+    {
+      "id": 50,
+      "category_id": 1,
+      "image_id": 50,
+      "area": 0.095,
+      "bbox": [
+        0.22903625513887954,
+        0.37012752570236157,
+        0.3517021058682284,
+        0.2711509679738396
+      ]
+    },
+    {
+      "id": 51,
+      "category_id": 1,
+      "image_id": 51,
+      "area": 0.016,
+      "bbox": [
+        0.48533818604636025,
+        0.5558810653438009,
+        0.10216869636205339,
+        0.1552024617645562
+      ]
+    },
+    {
+      "id": 52,
+      "category_id": 1,
+      "image_id": 52,
+      "area": 0.012,
+      "bbox": [
+        0.4554458432245515,
+        0.4400143701012826,
+        0.0952565685882587,
+        0.13097389047231273
+      ]
+    },
+    {
+      "id": 53,
+      "category_id": 1,
+      "image_id": 53,
+      "area": 0.032,
+      "bbox": [
+        0.5379162472119292,
+        0.3806812398208469,
+        0.1196181891169773,
+        0.2656110831891286
+      ]
+    },
+    {
+      "id": 54,
+      "category_id": 1,
+      "image_id": 54,
+      "area": 0.003,
+      "bbox": [
+        0.41463045179009106,
+        0.36265074824103344,
+        0.039825695903361324,
+        0.07199945404958535
+      ]
+    },
+    {
+      "id": 55,
+      "category_id": 1,
+      "image_id": 55,
+      "area": 0.06,
+      "bbox": [
+        0.4714333843916245,
+        0.45705659847694424,
+        0.21661683222657535,
+        0.27542601346192996
+      ]
+    },
+    {
+      "id": 56,
+      "category_id": 1,
+      "image_id": 56,
+      "area": 0.158,
+      "bbox": [
+        0.3436861986403383,
+        0.09083482574562296,
+        0.34015866333106354,
+        0.4634626059268119
+      ]
+    },
+    {
+      "id": 57,
+      "category_id": 1,
+      "image_id": 57,
+      "area": 0.099,
+      "bbox": [
+        0.3553496193957173,
+        0.3983739299960556,
+        0.2629750249652134,
+        0.37676142093024734
+      ]
+    },
+    {
+      "id": 58,
+      "category_id": 1,
+      "image_id": 58,
+      "area": 0.068,
+      "bbox": [
+        0.44374460024287266,
+        0.3467863499147496,
+        0.2337646082725754,
+        0.2893342754351588
+      ]
+    },
+    {
+      "id": 59,
+      "category_id": 1,
+      "image_id": 59,
+      "area": 0.022,
+      "bbox": [
+        0.444530520934724,
+        0.5006154212578888,
+        0.12916336648384275,
+        0.17048908444879884
+      ]
+    },
+    {
+      "id": 60,
+      "category_id": 1,
+      "image_id": 60,
+      "area": 0.081,
+      "bbox": [
+        0.4206764203673172,
+        0.5903647357555476,
+        0.21865698033521608,
+        0.37050288197271986
+      ]
+    },
+    {
+      "id": 61,
+      "category_id": 1,
+      "image_id": 61,
+      "area": 0.014,
+      "bbox": [
+        0.5088240001370125,
+        0.5883969981041327,
+        0.10957098959052147,
+        0.12991730630980258
+      ]
+    },
+    {
+      "id": 62,
+      "category_id": 1,
+      "image_id": 62,
+      "area": 0.225,
+      "bbox": [
+        0.23934791773643221,
+        0.28439887727122354,
+        0.5933093640467766,
+        0.37989056615177114
+      ]
+    },
+    {
+      "id": 63,
+      "category_id": 1,
+      "image_id": 63,
+      "area": 0.07,
+      "bbox": [
+        0.3787889796493724,
+        0.31873478097325425,
+        0.32325604748701053,
+        0.2160522759154876
+      ]
+    },
+    {
+      "id": 64,
+      "category_id": 1,
+      "image_id": 64,
+      "area": 0.177,
+      "bbox": [
+        0.44137213320367835,
+        0.21328327787815554,
+        0.3245908097749109,
+        0.5463860229094564
+      ]
+    },
+    {
+      "id": 65,
+      "category_id": 1,
+      "image_id": 65,
+      "area": 0.069,
+      "bbox": [
+        0.4655177497394659,
+        0.2167595978280232,
+        0.2233754852221973,
+        0.3109071215899837
+      ]
+    },
+    {
+      "id": 66,
+      "category_id": 1,
+      "image_id": 66,
+      "area": 0.04,
+      "bbox": [
+        0.46429543052882694,
+        0.5718128316177219,
+        0.2578791339609048,
+        0.15461228957781958
+      ]
+    },
+    {
+      "id": 67,
+      "category_id": 1,
+      "image_id": 67,
+      "area": 0.08,
+      "bbox": [
+        0.22945035740854983,
+        0.44879060925412256,
+        0.24479975614449803,
+        0.3280145601651568
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "landmine"
+    }
+  ]
+}
